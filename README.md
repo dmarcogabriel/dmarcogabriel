@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hello World! 
 
-<!--
-**dmarcogabriel/dmarcogabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Seja muito bem vindo ao meu ✨ repositório ✨ pegue uma xícara de café e sinta-se a vontade para baixar e testar os projetos :D
 
-Here are some ideas to get you started:
+Welcome to my ✨ repository ✨ take a cup of coffe and feel free to download and test the projects :D
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stacks
+
+* Reactjs
+* React Native
+* Laravel
+* Lumen
+* Nodejs
+* Vuejs
+* Php
+* Javascript
+* Ionic
+
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
