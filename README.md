@@ -5,7 +5,7 @@ Seja muito bem vindo ao meu  **repositório** pegue uma xícara de café e sinta
 Welcome to my **repository** take a cup of coffe and feel free to download and test the projects :D
 
 ## Stacks
-### Front-End :heart:
+### Front-End :star2:
 * Javascript
 * Reactjs
 * React Native
@@ -13,7 +13,7 @@ Welcome to my **repository** take a cup of coffe and feel free to download and t
 * Angular
 * Ionic
 
-### Back-End :blush: 
+### Back-End :star:
 * Nodejs
 * Php
 * Laravel
