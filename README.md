@@ -1,24 +1,35 @@
-# Hello World! 
+# :collision: Hello World! :collision:
 
-Seja muito bem vindo ao meu  **repositório** pegue uma xícara de café e sinta-se a vontade para baixar e testar os projetos :D
+Seja muito bem vindo ao meu  **repositório** pegue uma xícara de café e sinta-se a vontade para baixar e testar os projetos 😄
 
-Welcome to my **repository** take a cup of coffe and feel free to download and test the projects :D
+Welcome to my **repository** take a cup of coffe and feel free to download and test the projects 😄
 
-## Stacks
-### Front-End :star2:
-* Javascript
-* Reactjs
+## Repo Description
+
+A nomeclatura utilizada nos meus repositórios é = `<framework/lib/language>-<app_name>-<app_type=web,mob/mobile,api,bff>`.
+ex: um site escrito em react.js ficará `react-nome-do-app-web`.
+
+My repositories nomenclature is = `<framework/lib/language>-<app_name>-<app_type=web,mob/mobile,api,bff>`.
+ex: a web site writen in react.js will be `react-app-name-web`.
+
+## :guitar: STACKS
+### 📱 APP
 * React Native
-* Vuejs
-* Angular
+* Flutter
+* Kotlin
+* Java (Android)
 * Ionic
 
-### Back-End :star:
+### 🖱️ FRONT-END
+* Javascript
+* Reactjs
+* Vuejs
+* Angular
+
+### :computer: BACK-END
 * Nodejs
 * Php
 * Laravel
 * Lumen
 
-
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
-
+![cute cat](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
