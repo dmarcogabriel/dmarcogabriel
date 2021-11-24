@@ -1,8 +1,8 @@
 # :collision: Hello World! :collision:
 
-Seja muito bem vindo ao meu  **repositório** pegue uma xícara de café e sinta-se a vontade para baixar e testar os projetos 😄
+Seja muito bem vindo ao meu **repositório** pegue uma xícara de café e sinta-se a vontade para baixar e testar os projetos 😄
 
-Welcome to my **repository** take a cup of coffe and feel free to download and test the projects 😄
+Welcome to my **repository** take a cup of coffe and feel free to download and test any of the projects 😄
 
 ## Repo Description
 
@@ -31,5 +31,6 @@ ex: a web site writen in react.js will be `react-app-name-web`.
 * Php
 * Laravel
 * Lumen
+* Java Spring
 
 ![cute cat](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
