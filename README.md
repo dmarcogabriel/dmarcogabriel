@@ -1,36 +1,35 @@
 # :collision: Hello World! :collision:
 
-Seja muito bem vindo ao meu **repositório** pegue uma xícara de café e sinta-se a vontade para baixar e testar os projetos 😄
+:warning: Under maintenance :warning:
 
 Welcome to my **repository** take a cup of coffe and feel free to download and test any of the projects 😄
 
-## Repo Description
-
-A nomeclatura utilizada nos meus repositórios é = `<framework/lib/language>-<app_name>-<app_type=web,mob/mobile,api,bff>`.
-ex: um site escrito em react.js ficará `react-nome-do-app-web`.
-
-My repositories nomenclature is = `<framework/lib/language>-<app_name>-<app_type=web,mob/mobile,api,bff>`.
-ex: a web site writen in react.js will be `react-app-name-web`.
+## 🔡 LANGUAGES
+* Javascript / Typescript
+* Java
+* Php
+* GML - Game Maker Language
 
 ## :guitar: STACKS
+
 ### 📱 APP
 * React Native
 * Flutter
 * Kotlin
 * Java (Android)
-* Ionic
 
-### 🖱️ FRONT-END
-* Javascript
-* Reactjs
-* Vuejs
+### 🖱️ WEB
+* React.js
 * Angular
+* Vanilla
 
 ### :computer: BACK-END
-* Nodejs
-* Php
+* NodeJS / NestJS / SailsJS / Adonis
+* Java Spring
 * Laravel
 * Lumen
-* Java Spring
+
+### 🎮 GAME
+* Game Maker Studio 2 (still learning)
 
 ![cute cat](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
